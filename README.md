@@ -2,7 +2,7 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0)
 
-# Hi, I'm Alexa! 👋
+# Hello World, I'm Alexa! 👋
 
 I'm a passionate and curious software developer with a background in criminal justice, now embracing the exciting world of technology. With a keen eye for both front-end and back-end development, I'm always eager to explore new challenges and expand my skillset.
 
