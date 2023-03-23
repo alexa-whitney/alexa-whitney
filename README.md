@@ -4,8 +4,6 @@
 
 # Hi, I'm Alexa! 👋
 
-![Banner](https://your-banner-image-url)
-
 I'm a passionate and curious software developer with a background in criminal justice, now embracing the exciting world of technology. With a keen eye for both front-end and back-end development, I'm always eager to explore new challenges and expand my skillset.
 
 ## 🌟 About Me
