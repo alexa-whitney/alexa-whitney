@@ -30,6 +30,7 @@ I'm a passionate and curious software developer with a background in criminal ju
 
 ## 🌐 Connect with Me
 
+- **Portfolio** (https://www.alexa-whitney.com)
 - **LinkedIn**: (https://www.linkedin.com/in/alexawhitney)
 - **Email**: alexawhitney87@gmail.com
 
